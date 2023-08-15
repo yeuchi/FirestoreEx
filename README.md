@@ -1,0 +1,2 @@
+# FirestoreEx
+Firebase Firestore exercies
