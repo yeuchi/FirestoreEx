@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "149995667005",
+    "project_id": "firestoreex-90d11",
+    "storage_bucket": "firestoreex-90d11.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149995667005:android:3d4132329ad55bdfffb454",
+        "android_client_info": {
+          "package_name": "com.ctyeung.firestoreex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "149995667005-4sa3hukcq4c8sslmg0ngtg7h3fcn7f04.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBE89eKjGLW7yHkzhvStHSa7Jv11Su4m4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "149995667005-4sa3hukcq4c8sslmg0ngtg7h3fcn7f04.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
