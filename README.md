@@ -2,7 +2,7 @@
 Firebase Firestore exercies
 
 ### Firestore CLI 
-Install Firebase CLI and configure Firestore project /
+Install Firebase CLI and configure Firestore project 
 <img width="500" alt="workflow" src="https://github.com/yeuchi/FirestoreEx/assets/1282659/0ecbf978-1311-4b1a-8395-c25c16f5d6c4">
 
 Use default firebase.json files for rules and configuration.
