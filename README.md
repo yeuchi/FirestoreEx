@@ -15,5 +15,6 @@ The most basic read exercise is accomplished by creating MyCollection and 2 docu
 <img width="200" alt="workflow" src="https://github.com/yeuchi/FirestoreEx/assets/1282659/986b30bd-fe52-4cf2-9dd1-f966a7859c48">
 
 # References
-1. Getting Started with Cloud Firestore /
+1. Getting Started with Cloud Firestore
+
 https://firebase.google.com/docs/firestore/quickstart?authuser=0&hl=en
