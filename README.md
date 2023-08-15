@@ -12,6 +12,7 @@ The most basic read exercise is accomplished by creating MyCollection and 2 docu
 <img width="500" alt="workflow" src="https://github.com/yeuchi/FirestoreEx/assets/1282659/4364adcd-9d13-438a-8a62-1718516ec88f">
 
 ### Result
+Able to load documents from 'MyCollection'.  Below list key-value pairs.
 <img width="200" alt="workflow" src="https://github.com/yeuchi/FirestoreEx/assets/1282659/986b30bd-fe52-4cf2-9dd1-f966a7859c48">
 
 # References
